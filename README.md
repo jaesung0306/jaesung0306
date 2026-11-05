@@ -13,7 +13,7 @@
 
 | 분야 | 사용한 기술 |
 | --- | --- |
-| 데이터 분석 · 머신러닝 | Python, CatBoost |
+| 데이터 분석 · 머신러닝 | Python, CatBoost, C |
 | 분석 도구 개발 | Streamlit |
 | 개발 환경 | GitHub, VS Code, Jupyter Notebook |
 
