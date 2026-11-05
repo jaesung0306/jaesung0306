@@ -1,5 +1,3 @@
-![jaesung0306 네온 시티 배너](./jaesung0306-banner.gif)
-
 <h1 align="center">강재성</h1>
 <p align="center">Data Analysis · Data Engineering · Development</p>
 
