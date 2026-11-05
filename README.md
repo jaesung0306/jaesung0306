@@ -1,4 +1,4 @@
-## Hi there 👋
+동아대학교 전자공학과에 재학중인 25학번 강재성이라고 합니다.
 
 <!--
 **jaesung0306/jaesung0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
