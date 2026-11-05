@@ -33,9 +33,9 @@
 
 ## Contact
 
-<!-- 공개할 이메일이나 포트폴리오 링크를 여기에 추가 -->
+-gmail : psj85020496@gmail.com 
 
-## Git Animals
+
 
 <!-- Git Animals에서 발급받은 카드 코드를 여기에 붙여 넣기 -->
 
