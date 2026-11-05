@@ -11,12 +11,34 @@
 
 ## Tech
 
-| 분야 | 사용한 기술 |
-| --- | --- |
-| 데이터 분석 · 머신러닝 | Python, CatBoost, C |
-| 분석 도구 개발 | Streamlit |
-| 개발 환경 | GitHub, VS Code, Jupyter Notebook |
+### Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU%20Octave-075DA8?style=flat-square&logo=octave&logoColor=white)
+
+### Python Libraries
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-F5C542?style=flat-square)
+
+### Analysis Methods
+
+![주성분 분석](https://img.shields.io/badge/주성분%20분석%20(PCA)-555555?style=flat-square)
+![회귀 분석](https://img.shields.io/badge/회귀%20분석-555555?style=flat-square)
+![분류 모델링](https://img.shields.io/badge/분류%20모델링-555555?style=flat-square)
+![리텐션 분석](https://img.shields.io/badge/리텐션%20분석-555555?style=flat-square)
+
+### Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Learning
+
+![머신러닝 이론](https://img.shields.io/badge/머신러닝%20이론-536C99?style=flat-square)
+![반도체 데이터 분석](https://img.shields.io/badge/반도체%20데이터%20분석-397D79?style=flat-square)
 ## Projects
 
 | 프로젝트 | 주요 내용 |
