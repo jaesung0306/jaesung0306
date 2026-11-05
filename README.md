@@ -1,7 +1,9 @@
 ![jaesung0306 네온 시티 배너](./jaesung0306-banner.gif)
 
+
 <h1 align="center">강재성</h1>
 <p align="center">Data Analysis · Data Engineering · Development</p>
+
 
 ## About
 
@@ -10,6 +12,7 @@
 - 🎓 동아대학교 재학
 - 💼 관심 직무 · 데이터 분석가, 데이터 엔지니어, 개발자
 - 📚 머신러닝 스터디를 운영하며 공부한 모델을 반도체 공정 데이터에 적용하고 있습니다.
+
 
 ## Tech
 
