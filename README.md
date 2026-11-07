@@ -43,7 +43,7 @@
 ### Learning
 
 ![머신러닝 이론](https://img.shields.io/badge/머신러닝%20이론-536C99?style=flat-square)
-![반도체 데이터 분석](https://img.shields.io/badge/반도체%20데이터%20분석-397D79?style=flat-square)
+
 ## Projects
 
 | 프로젝트 | 주요 내용 |
